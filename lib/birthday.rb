@@ -1,7 +1,7 @@
 # birthday_kids = {
 #   "Timmy" => 9, 
-#   "Sarah" => 6, 
-#   "Amanda" => 27
+#   "Sarah" => 12, 
+#   "Amanda" => 7
 # }
 
 def happy_birthday(birthday_kids)
